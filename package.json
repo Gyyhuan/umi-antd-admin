@@ -29,7 +29,8 @@
     "react-draft-wysiwyg": "^1.10.0",
     "react-helmet": "^5.1.3",
     "react-highcharts": "^15.0.0",
-    "recharts": "^1.0.0-beta.0"
+    "recharts": "^1.0.0-beta.0",
+    "umi-plugin-dll": "^0.2.0"
   },
   "devDependencies": {
     "babel-plugin-dev-expression": "^0.2.1",
@@ -45,10 +46,10 @@
     "less-vars-to-js": "^1.1.2",
     "mockjs": "^1.0.1-beta3",
     "svg-sprite-loader": "^3.7.3",
-    "umi": "^1.1.2",
-    "umi-plugin-dll": "^0.1.0",
-    "umi-plugin-dva": "^0.4.0",
-    "umi-plugin-routes": "^0.1.2"
+    "umi": "^1.3.2",
+    "umi-plugin-dll": "^0.2.0",
+    "umi-plugin-dva": "^0.7.2",
+    "umi-plugin-routes": "^0.1.4"
   },
   "pre-commit": [
     "lint"
